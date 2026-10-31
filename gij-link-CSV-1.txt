@@ -1,0 +1,1 @@
+canary link probe for CSV-1 (visible to the non-admin)
